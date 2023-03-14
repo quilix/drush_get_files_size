@@ -1,0 +1,19 @@
+{
+  "name": "my_org/get-files-size",
+  "description": "Drush command that returns the size of the public files directory and number of files there.",
+  "license": "MIT",
+  "type": "drupal-drush",
+  "authors": [
+    {
+      "name": "John Doe",
+      "email": "j.doe@example.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
+
+
